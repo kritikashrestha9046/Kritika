@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>First Web Page</title>
+    <h1>First Web Page</h1>
 </head>
 
 <body>
